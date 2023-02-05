@@ -138,6 +138,10 @@
         .section9 .all-style{
             margin: 10px;
         }
+   
+   footer{
+     padding:30px
+   }
  }
 
 
@@ -208,6 +212,10 @@
     .section9 .all-style .text-hover{
         transform: translate(500px);
     }
+   
+   footer{
+     padding:25px
+   }
 
   }
 
@@ -284,6 +292,10 @@
      
         transform: translate(600px);
     }
+    
+   footer{
+     padding:10px
+   }
    }
 
 
@@ -299,6 +311,7 @@
     .section4 .card .next-text h4 {
         font-size: 15px;
     }
+     
     .section6 .style-box .text h4 {
         font-size: 23px;
     }
@@ -365,4 +378,8 @@ footer .style-box .text h4 {
     font-size: 12px;
     line-height: 135%;
 }
+     
+   footer{
+     padding:10px
+   }
 }
