@@ -94,7 +94,7 @@
         }
         .section2 .card .card-text span{
             font-size: 15px;
-            padding-left: 40px;
+            padding-left: 30px;
         }
         .section3 {
             padding: 25px;
@@ -168,7 +168,7 @@
         text-align: center !important;
     }
     .section2 .card .card-text{
-        width: 75%;
+        width: 95%;
     }
     .section4{
         padding: 15px;
